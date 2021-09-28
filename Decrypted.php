@@ -1,4 +1,4 @@
-?><?php
+<?php
 //NinjaNetwork Firewall - V4R1ABLE - T13R
 include("nnfconfig.php");
 function sifrele($sifre){
