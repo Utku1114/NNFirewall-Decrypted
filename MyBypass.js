@@ -1,3 +1,9 @@
 var cloudscraper = require('cloudscraper');
+
+
+var options = {
+  method: 'GET',
+  url:'https://famy.cc',
+};
  
-cloudscraper.get('https://hit.confighub.host').then(console.log, console.error);
+cloudscraper(options).then(console.log);
