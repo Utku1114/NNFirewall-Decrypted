@@ -4,7 +4,8 @@
 
 NNFirewall şifrelemesi kırılmıştır
 
-2. PHP Dosyası yoktur
-Yanına basit Flood scripti bıraktım işinize yarayabilir 
+New added: Tüm dosyaların şifrelemesi kırılmıştır
+
+Basit flood dosyası eklendi test için.
 
 Orjinal link : https://github.com/ertugrulturan/NNFirewall
