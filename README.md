@@ -2,7 +2,7 @@
 
 
 
-NNFirewall şifrelemesi kırılmıştır
+NNFirewall şifrelemesi kırılmıştır // All layer 7 attack protection
 
 New added: Tüm dosyaların şifrelemesi kırılmıştır
 
