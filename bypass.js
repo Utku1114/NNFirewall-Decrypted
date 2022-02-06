@@ -1,3 +1,3 @@
 var cloudscraper = require('cloudscraper');
  
-cloudscraper.get('https://botflare.club').then(console.log, console.error);
+cloudscraper.get('https://dstat.imagehub.host').then(console.log, console.error);
